@@ -1,0 +1,1176 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-30T00:00:00+00:00",
+  "source_versions": {
+    "operations": "r1",
+    "reference": "r1"
+  },
+  "merchants": [
+    {
+      "merchant_id": "merchant-0",
+      "entered_at": "2026-08-01T00:00:00+00:00",
+      "entry_known_at": "2026-08-01T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-1",
+      "entered_at": "2026-08-02T00:00:00+00:00",
+      "entry_known_at": "2026-08-02T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-2",
+      "entered_at": "2026-08-03T00:00:00+00:00",
+      "entry_known_at": "2026-08-03T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-3",
+      "entered_at": "2026-08-04T00:00:00+00:00",
+      "entry_known_at": "2026-08-04T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-4",
+      "entered_at": "2026-08-05T00:00:00+00:00",
+      "entry_known_at": "2026-08-05T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-5",
+      "entered_at": "2026-08-06T00:00:00+00:00",
+      "entry_known_at": "2026-08-06T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-6",
+      "entered_at": "2026-08-07T00:00:00+00:00",
+      "entry_known_at": "2026-08-07T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-7",
+      "entered_at": "2026-08-08T00:00:00+00:00",
+      "entry_known_at": "2026-08-08T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-8",
+      "entered_at": "2026-08-09T00:00:00+00:00",
+      "entry_known_at": "2026-08-09T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-9",
+      "entered_at": "2026-08-10T00:00:00+00:00",
+      "entry_known_at": "2026-08-10T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-10",
+      "entered_at": "2026-08-11T00:00:00+00:00",
+      "entry_known_at": "2026-08-11T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-11",
+      "entered_at": "2026-08-12T00:00:00+00:00",
+      "entry_known_at": "2026-08-12T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-12",
+      "entered_at": "2026-08-01T00:00:00+00:00",
+      "entry_known_at": "2026-08-01T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-13",
+      "entered_at": "2026-08-02T00:00:00+00:00",
+      "entry_known_at": "2026-08-02T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-14",
+      "entered_at": "2026-08-03T00:00:00+00:00",
+      "entry_known_at": "2026-08-03T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-15",
+      "entered_at": "2026-08-04T00:00:00+00:00",
+      "entry_known_at": "2026-08-04T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-16",
+      "entered_at": "2026-08-05T00:00:00+00:00",
+      "entry_known_at": "2026-08-05T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-17",
+      "entered_at": "2026-08-06T00:00:00+00:00",
+      "entry_known_at": "2026-08-06T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-18",
+      "entered_at": "2026-08-07T00:00:00+00:00",
+      "entry_known_at": "2026-08-07T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-19",
+      "entered_at": "2026-08-08T00:00:00+00:00",
+      "entry_known_at": "2026-08-08T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-20",
+      "entered_at": "2026-08-09T00:00:00+00:00",
+      "entry_known_at": "2026-08-09T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-21",
+      "entered_at": "2026-08-10T00:00:00+00:00",
+      "entry_known_at": "2026-08-10T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-22",
+      "entered_at": "2026-08-11T00:00:00+00:00",
+      "entry_known_at": "2026-08-11T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-23",
+      "entered_at": "2026-08-12T00:00:00+00:00",
+      "entry_known_at": "2026-08-12T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-24",
+      "entered_at": "2026-08-01T00:00:00+00:00",
+      "entry_known_at": "2026-08-01T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-25",
+      "entered_at": "2026-08-02T00:00:00+00:00",
+      "entry_known_at": "2026-08-02T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    },
+    {
+      "merchant_id": "merchant-26",
+      "entered_at": "2026-08-03T00:00:00+00:00",
+      "entry_known_at": "2026-08-03T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "leather"
+    },
+    {
+      "merchant_id": "merchant-27",
+      "entered_at": "2026-08-04T00:00:00+00:00",
+      "entry_known_at": "2026-08-04T00:00:00+00:00",
+      "cohort": "august",
+      "sector": "textile"
+    }
+  ],
+  "visits": [
+    {
+      "visit_id": "visit-0-0",
+      "merchant_id": "merchant-0",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 20
+      }
+    },
+    {
+      "visit_id": "visit-0-1",
+      "merchant_id": "merchant-0",
+      "observed_at": "2026-08-26T00:00:00+00:00",
+      "available_at": "2026-08-27T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 33
+      }
+    },
+    {
+      "visit_id": "visit-0-2",
+      "merchant_id": "merchant-0",
+      "observed_at": "2026-09-20T00:00:00+00:00",
+      "available_at": "2026-09-21T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 46
+      }
+    },
+    {
+      "visit_id": "visit-1-0",
+      "merchant_id": "merchant-1",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 21
+      }
+    },
+    {
+      "visit_id": "visit-1-1",
+      "merchant_id": "merchant-1",
+      "observed_at": "2026-08-17T00:00:00+00:00",
+      "available_at": "2026-08-18T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 34
+      }
+    },
+    {
+      "visit_id": "visit-1-2",
+      "merchant_id": "merchant-1",
+      "observed_at": "2026-09-01T00:00:00+00:00",
+      "available_at": "2026-09-02T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 47
+      }
+    },
+    {
+      "visit_id": "visit-2-0",
+      "merchant_id": "merchant-2",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 22
+      }
+    },
+    {
+      "visit_id": "visit-2-1",
+      "merchant_id": "merchant-2",
+      "observed_at": "2026-08-28T00:00:00+00:00",
+      "available_at": "2026-08-29T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 35
+      }
+    },
+    {
+      "visit_id": "visit-2-2",
+      "merchant_id": "merchant-2",
+      "observed_at": "2026-09-22T00:00:00+00:00",
+      "available_at": "2026-09-23T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 48
+      }
+    },
+    {
+      "visit_id": "visit-3-0",
+      "merchant_id": "merchant-3",
+      "observed_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 23
+      }
+    },
+    {
+      "visit_id": "visit-3-1",
+      "merchant_id": "merchant-3",
+      "observed_at": "2026-08-19T00:00:00+00:00",
+      "available_at": "2026-08-20T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 36
+      }
+    },
+    {
+      "visit_id": "visit-3-2",
+      "merchant_id": "merchant-3",
+      "observed_at": "2026-09-03T00:00:00+00:00",
+      "available_at": "2026-09-04T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 49
+      }
+    },
+    {
+      "visit_id": "visit-4-0",
+      "merchant_id": "merchant-4",
+      "observed_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 24
+      }
+    },
+    {
+      "visit_id": "visit-4-1",
+      "merchant_id": "merchant-4",
+      "observed_at": "2026-08-30T00:00:00+00:00",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 37
+      }
+    },
+    {
+      "visit_id": "visit-4-2",
+      "merchant_id": "merchant-4",
+      "observed_at": "2026-09-24T00:00:00+00:00",
+      "available_at": "2026-09-25T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 50
+      }
+    },
+    {
+      "visit_id": "visit-5-0",
+      "merchant_id": "merchant-5",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 25
+      }
+    },
+    {
+      "visit_id": "visit-5-1",
+      "merchant_id": "merchant-5",
+      "observed_at": "2026-08-16T00:00:00+00:00",
+      "available_at": "2026-08-17T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 38
+      }
+    },
+    {
+      "visit_id": "visit-5-2",
+      "merchant_id": "merchant-5",
+      "observed_at": "2026-08-31T00:00:00+00:00",
+      "available_at": "2026-09-01T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 51
+      }
+    },
+    {
+      "visit_id": "visit-6-0",
+      "merchant_id": "merchant-6",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 26
+      }
+    },
+    {
+      "visit_id": "visit-6-1",
+      "merchant_id": "merchant-6",
+      "observed_at": "2026-08-27T00:00:00+00:00",
+      "available_at": "2026-08-28T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 39
+      }
+    },
+    {
+      "visit_id": "visit-6-2",
+      "merchant_id": "merchant-6",
+      "observed_at": "2026-09-21T00:00:00+00:00",
+      "available_at": "2026-09-22T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 52
+      }
+    },
+    {
+      "visit_id": "visit-7-0",
+      "merchant_id": "merchant-7",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 27
+      }
+    },
+    {
+      "visit_id": "visit-7-1",
+      "merchant_id": "merchant-7",
+      "observed_at": "2026-08-18T00:00:00+00:00",
+      "available_at": "2026-08-19T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 40
+      }
+    },
+    {
+      "visit_id": "visit-7-2",
+      "merchant_id": "merchant-7",
+      "observed_at": "2026-09-02T00:00:00+00:00",
+      "available_at": "2026-09-03T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 53
+      }
+    },
+    {
+      "visit_id": "visit-8-0",
+      "merchant_id": "merchant-8",
+      "observed_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 28
+      }
+    },
+    {
+      "visit_id": "visit-8-1",
+      "merchant_id": "merchant-8",
+      "observed_at": "2026-08-29T00:00:00+00:00",
+      "available_at": "2026-08-30T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 41
+      }
+    },
+    {
+      "visit_id": "visit-8-2",
+      "merchant_id": "merchant-8",
+      "observed_at": "2026-09-23T00:00:00+00:00",
+      "available_at": "2026-09-24T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 54
+      }
+    },
+    {
+      "visit_id": "visit-9-0",
+      "merchant_id": "merchant-9",
+      "observed_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 29
+      }
+    },
+    {
+      "visit_id": "visit-9-1",
+      "merchant_id": "merchant-9",
+      "observed_at": "2026-08-20T00:00:00+00:00",
+      "available_at": "2026-08-21T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 42
+      }
+    },
+    {
+      "visit_id": "visit-9-2",
+      "merchant_id": "merchant-9",
+      "observed_at": "2026-09-04T00:00:00+00:00",
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 55
+      }
+    },
+    {
+      "visit_id": "visit-10-0",
+      "merchant_id": "merchant-10",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 30
+      }
+    },
+    {
+      "visit_id": "visit-10-1",
+      "merchant_id": "merchant-10",
+      "observed_at": "2026-08-26T00:00:00+00:00",
+      "available_at": "2026-08-27T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 43
+      }
+    },
+    {
+      "visit_id": "visit-10-2",
+      "merchant_id": "merchant-10",
+      "observed_at": "2026-09-20T00:00:00+00:00",
+      "available_at": "2026-09-21T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 56
+      }
+    },
+    {
+      "visit_id": "visit-11-0",
+      "merchant_id": "merchant-11",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 31
+      }
+    },
+    {
+      "visit_id": "visit-11-1",
+      "merchant_id": "merchant-11",
+      "observed_at": "2026-08-17T00:00:00+00:00",
+      "available_at": "2026-08-18T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 44
+      }
+    },
+    {
+      "visit_id": "visit-11-2",
+      "merchant_id": "merchant-11",
+      "observed_at": "2026-09-01T00:00:00+00:00",
+      "available_at": "2026-09-02T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 57
+      }
+    },
+    {
+      "visit_id": "visit-12-0",
+      "merchant_id": "merchant-12",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 32
+      }
+    },
+    {
+      "visit_id": "visit-12-1",
+      "merchant_id": "merchant-12",
+      "observed_at": "2026-08-28T00:00:00+00:00",
+      "available_at": "2026-08-29T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 45
+      }
+    },
+    {
+      "visit_id": "visit-12-2",
+      "merchant_id": "merchant-12",
+      "observed_at": "2026-09-22T00:00:00+00:00",
+      "available_at": "2026-09-23T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 58
+      }
+    },
+    {
+      "visit_id": "visit-13-0",
+      "merchant_id": "merchant-13",
+      "observed_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 33
+      }
+    },
+    {
+      "visit_id": "visit-13-1",
+      "merchant_id": "merchant-13",
+      "observed_at": "2026-08-19T00:00:00+00:00",
+      "available_at": "2026-08-20T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 46
+      }
+    },
+    {
+      "visit_id": "visit-13-2",
+      "merchant_id": "merchant-13",
+      "observed_at": "2026-09-03T00:00:00+00:00",
+      "available_at": "2026-09-04T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 59
+      }
+    },
+    {
+      "visit_id": "visit-14-0",
+      "merchant_id": "merchant-14",
+      "observed_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 34
+      }
+    },
+    {
+      "visit_id": "visit-14-1",
+      "merchant_id": "merchant-14",
+      "observed_at": "2026-08-30T00:00:00+00:00",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 47
+      }
+    },
+    {
+      "visit_id": "visit-14-2",
+      "merchant_id": "merchant-14",
+      "observed_at": "2026-09-24T00:00:00+00:00",
+      "available_at": "2026-09-25T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 60
+      }
+    },
+    {
+      "visit_id": "visit-15-0",
+      "merchant_id": "merchant-15",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 35
+      }
+    },
+    {
+      "visit_id": "visit-15-1",
+      "merchant_id": "merchant-15",
+      "observed_at": "2026-08-16T00:00:00+00:00",
+      "available_at": "2026-08-17T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 48
+      }
+    },
+    {
+      "visit_id": "visit-15-2",
+      "merchant_id": "merchant-15",
+      "observed_at": "2026-08-31T00:00:00+00:00",
+      "available_at": "2026-09-01T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 61
+      }
+    },
+    {
+      "visit_id": "visit-16-0",
+      "merchant_id": "merchant-16",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 36
+      }
+    },
+    {
+      "visit_id": "visit-16-1",
+      "merchant_id": "merchant-16",
+      "observed_at": "2026-08-27T00:00:00+00:00",
+      "available_at": "2026-08-28T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 49
+      }
+    },
+    {
+      "visit_id": "visit-16-2",
+      "merchant_id": "merchant-16",
+      "observed_at": "2026-09-21T00:00:00+00:00",
+      "available_at": "2026-09-22T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 62
+      }
+    },
+    {
+      "visit_id": "visit-17-0",
+      "merchant_id": "merchant-17",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 37
+      }
+    },
+    {
+      "visit_id": "visit-17-1",
+      "merchant_id": "merchant-17",
+      "observed_at": "2026-08-18T00:00:00+00:00",
+      "available_at": "2026-08-19T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 50
+      }
+    },
+    {
+      "visit_id": "visit-17-2",
+      "merchant_id": "merchant-17",
+      "observed_at": "2026-09-02T00:00:00+00:00",
+      "available_at": "2026-09-03T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 63
+      }
+    },
+    {
+      "visit_id": "visit-18-0",
+      "merchant_id": "merchant-18",
+      "observed_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 38
+      }
+    },
+    {
+      "visit_id": "visit-18-1",
+      "merchant_id": "merchant-18",
+      "observed_at": "2026-08-29T00:00:00+00:00",
+      "available_at": "2026-08-30T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 51
+      }
+    },
+    {
+      "visit_id": "visit-18-2",
+      "merchant_id": "merchant-18",
+      "observed_at": "2026-09-23T00:00:00+00:00",
+      "available_at": "2026-09-24T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 64
+      }
+    },
+    {
+      "visit_id": "visit-19-0",
+      "merchant_id": "merchant-19",
+      "observed_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 39
+      }
+    },
+    {
+      "visit_id": "visit-19-1",
+      "merchant_id": "merchant-19",
+      "observed_at": "2026-08-20T00:00:00+00:00",
+      "available_at": "2026-08-21T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 52
+      }
+    },
+    {
+      "visit_id": "visit-19-2",
+      "merchant_id": "merchant-19",
+      "observed_at": "2026-09-04T00:00:00+00:00",
+      "available_at": "2026-09-05T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 65
+      }
+    },
+    {
+      "visit_id": "visit-20-0",
+      "merchant_id": "merchant-20",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 40
+      }
+    },
+    {
+      "visit_id": "visit-20-1",
+      "merchant_id": "merchant-20",
+      "observed_at": "2026-08-26T00:00:00+00:00",
+      "available_at": "2026-08-27T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 53
+      }
+    },
+    {
+      "visit_id": "visit-20-2",
+      "merchant_id": "merchant-20",
+      "observed_at": "2026-09-20T00:00:00+00:00",
+      "available_at": "2026-09-21T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 66
+      }
+    },
+    {
+      "visit_id": "visit-21-0",
+      "merchant_id": "merchant-21",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 41
+      }
+    },
+    {
+      "visit_id": "visit-21-1",
+      "merchant_id": "merchant-21",
+      "observed_at": "2026-08-17T00:00:00+00:00",
+      "available_at": "2026-08-18T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 54
+      }
+    },
+    {
+      "visit_id": "visit-21-2",
+      "merchant_id": "merchant-21",
+      "observed_at": "2026-09-01T00:00:00+00:00",
+      "available_at": "2026-09-02T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 67
+      }
+    },
+    {
+      "visit_id": "visit-22-0",
+      "merchant_id": "merchant-22",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 42
+      }
+    },
+    {
+      "visit_id": "visit-22-1",
+      "merchant_id": "merchant-22",
+      "observed_at": "2026-08-28T00:00:00+00:00",
+      "available_at": "2026-08-29T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 55
+      }
+    },
+    {
+      "visit_id": "visit-22-2",
+      "merchant_id": "merchant-22",
+      "observed_at": "2026-09-22T00:00:00+00:00",
+      "available_at": "2026-09-23T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 68
+      }
+    },
+    {
+      "visit_id": "visit-23-0",
+      "merchant_id": "merchant-23",
+      "observed_at": "2026-08-04T00:00:00+00:00",
+      "available_at": "2026-08-05T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 43
+      }
+    },
+    {
+      "visit_id": "visit-23-1",
+      "merchant_id": "merchant-23",
+      "observed_at": "2026-08-19T00:00:00+00:00",
+      "available_at": "2026-08-20T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 56
+      }
+    },
+    {
+      "visit_id": "visit-23-2",
+      "merchant_id": "merchant-23",
+      "observed_at": "2026-09-03T00:00:00+00:00",
+      "available_at": "2026-09-04T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 69
+      }
+    },
+    {
+      "visit_id": "visit-24-0",
+      "merchant_id": "merchant-24",
+      "observed_at": "2026-08-05T00:00:00+00:00",
+      "available_at": "2026-08-06T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 44
+      }
+    },
+    {
+      "visit_id": "visit-24-1",
+      "merchant_id": "merchant-24",
+      "observed_at": "2026-08-30T00:00:00+00:00",
+      "available_at": "2026-08-31T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 57
+      }
+    },
+    {
+      "visit_id": "visit-24-2",
+      "merchant_id": "merchant-24",
+      "observed_at": "2026-09-24T00:00:00+00:00",
+      "available_at": "2026-09-25T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 70
+      }
+    },
+    {
+      "visit_id": "visit-25-0",
+      "merchant_id": "merchant-25",
+      "observed_at": "2026-08-01T00:00:00+00:00",
+      "available_at": "2026-08-02T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 45
+      }
+    },
+    {
+      "visit_id": "visit-25-1",
+      "merchant_id": "merchant-25",
+      "observed_at": "2026-08-16T00:00:00+00:00",
+      "available_at": "2026-08-17T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 58
+      }
+    },
+    {
+      "visit_id": "visit-25-2",
+      "merchant_id": "merchant-25",
+      "observed_at": "2026-08-31T00:00:00+00:00",
+      "available_at": "2026-09-01T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 71
+      }
+    },
+    {
+      "visit_id": "visit-26-0",
+      "merchant_id": "merchant-26",
+      "observed_at": "2026-08-02T00:00:00+00:00",
+      "available_at": "2026-08-03T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 46
+      }
+    },
+    {
+      "visit_id": "visit-26-1",
+      "merchant_id": "merchant-26",
+      "observed_at": "2026-08-27T00:00:00+00:00",
+      "available_at": "2026-08-28T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 59
+      }
+    },
+    {
+      "visit_id": "visit-26-2",
+      "merchant_id": "merchant-26",
+      "observed_at": "2026-09-21T00:00:00+00:00",
+      "available_at": "2026-09-22T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 72
+      }
+    },
+    {
+      "visit_id": "visit-27-0",
+      "merchant_id": "merchant-27",
+      "observed_at": "2026-08-03T00:00:00+00:00",
+      "available_at": "2026-08-04T00:00:00+00:00",
+      "state": "independent",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 47
+      }
+    },
+    {
+      "visit_id": "visit-27-1",
+      "merchant_id": "merchant-27",
+      "observed_at": "2026-08-18T00:00:00+00:00",
+      "available_at": "2026-08-19T00:00:00+00:00",
+      "state": "regional",
+      "rule_version": "old",
+      "features": {
+        "own_brand_sales": 60
+      }
+    },
+    {
+      "visit_id": "visit-27-2",
+      "merchant_id": "merchant-27",
+      "observed_at": "2026-09-02T00:00:00+00:00",
+      "available_at": "2026-09-03T00:00:00+00:00",
+      "state": "oem",
+      "rule_version": "new",
+      "features": {
+        "own_brand_sales": 73
+      }
+    }
+  ],
+  "exits": [
+    {
+      "merchant_id": "merchant-0",
+      "exited_at": "2026-09-30T00:00:00+00:00",
+      "available_at": "2026-10-03T00:00:00+00:00",
+      "reason": "registry_closed"
+    },
+    {
+      "merchant_id": "merchant-7",
+      "exited_at": "2026-09-30T00:00:00+00:00",
+      "available_at": "2026-10-03T00:00:00+00:00",
+      "reason": "registry_closed"
+    },
+    {
+      "merchant_id": "merchant-14",
+      "exited_at": "2026-09-30T00:00:00+00:00",
+      "available_at": "2026-10-03T00:00:00+00:00",
+      "reason": "registry_closed"
+    },
+    {
+      "merchant_id": "merchant-21",
+      "exited_at": "2026-09-30T00:00:00+00:00",
+      "available_at": "2026-10-03T00:00:00+00:00",
+      "reason": "registry_closed"
+    }
+  ],
+  "rules": [
+    {
+      "version": "old",
+      "independent_threshold": 30,
+      "regional_threshold": 60
+    },
+    {
+      "version": "new",
+      "independent_threshold": 40,
+      "regional_threshold": 70
+    }
+  ],
+  "study": {
+    "horizon_days": 60,
+    "reference_rule": "old",
+    "alternate_rule": "new"
+  },
+  "baseline_case_id": "brand_ladder_observatory-demo"
+}
