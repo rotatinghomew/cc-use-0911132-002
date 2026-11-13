@@ -209,7 +209,7 @@
       "merchant_id": "merchant-0",
       "observed_at": "2026-08-01T00:00:00+00:00",
       "available_at": "2026-08-02T00:00:00+00:00",
-      "state": "independent",
+      "state": "oem",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 20
@@ -220,7 +220,7 @@
       "merchant_id": "merchant-0",
       "observed_at": "2026-08-26T00:00:00+00:00",
       "available_at": "2026-08-27T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 33
@@ -231,7 +231,7 @@
       "merchant_id": "merchant-0",
       "observed_at": "2026-09-20T00:00:00+00:00",
       "available_at": "2026-09-21T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 46
@@ -264,7 +264,7 @@
       "merchant_id": "merchant-1",
       "observed_at": "2026-09-01T00:00:00+00:00",
       "available_at": "2026-09-02T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 47
@@ -297,10 +297,10 @@
       "merchant_id": "merchant-2",
       "observed_at": "2026-09-22T00:00:00+00:00",
       "available_at": "2026-09-23T00:00:00+00:00",
-      "state": "regional",
+      "state": "oem",
       "rule_version": "new",
       "features": {
-        "own_brand_sales": 48
+        "own_brand_sales": 15
       }
     },
     {
@@ -308,7 +308,7 @@
       "merchant_id": "merchant-3",
       "observed_at": "2026-08-04T00:00:00+00:00",
       "available_at": "2026-08-05T00:00:00+00:00",
-      "state": "independent",
+      "state": "oem",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 23
@@ -319,7 +319,7 @@
       "merchant_id": "merchant-3",
       "observed_at": "2026-08-19T00:00:00+00:00",
       "available_at": "2026-08-20T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 36
@@ -330,7 +330,7 @@
       "merchant_id": "merchant-3",
       "observed_at": "2026-09-03T00:00:00+00:00",
       "available_at": "2026-09-04T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 49
@@ -363,7 +363,7 @@
       "merchant_id": "merchant-4",
       "observed_at": "2026-09-24T00:00:00+00:00",
       "available_at": "2026-09-25T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 50
@@ -396,7 +396,7 @@
       "merchant_id": "merchant-5",
       "observed_at": "2026-08-31T00:00:00+00:00",
       "available_at": "2026-09-01T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 51
@@ -407,7 +407,7 @@
       "merchant_id": "merchant-6",
       "observed_at": "2026-08-02T00:00:00+00:00",
       "available_at": "2026-08-03T00:00:00+00:00",
-      "state": "independent",
+      "state": "oem",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 26
@@ -418,7 +418,7 @@
       "merchant_id": "merchant-6",
       "observed_at": "2026-08-27T00:00:00+00:00",
       "available_at": "2026-08-28T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 39
@@ -429,7 +429,7 @@
       "merchant_id": "merchant-6",
       "observed_at": "2026-09-21T00:00:00+00:00",
       "available_at": "2026-09-22T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 52
@@ -462,7 +462,7 @@
       "merchant_id": "merchant-7",
       "observed_at": "2026-09-02T00:00:00+00:00",
       "available_at": "2026-09-03T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 53
@@ -495,7 +495,7 @@
       "merchant_id": "merchant-8",
       "observed_at": "2026-09-23T00:00:00+00:00",
       "available_at": "2026-09-24T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 54
@@ -506,7 +506,7 @@
       "merchant_id": "merchant-9",
       "observed_at": "2026-08-05T00:00:00+00:00",
       "available_at": "2026-08-06T00:00:00+00:00",
-      "state": "independent",
+      "state": "oem",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 29
@@ -517,7 +517,7 @@
       "merchant_id": "merchant-9",
       "observed_at": "2026-08-20T00:00:00+00:00",
       "available_at": "2026-08-21T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 42
@@ -528,7 +528,7 @@
       "merchant_id": "merchant-9",
       "observed_at": "2026-09-04T00:00:00+00:00",
       "available_at": "2026-09-05T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 55
@@ -539,7 +539,7 @@
       "merchant_id": "merchant-10",
       "observed_at": "2026-08-01T00:00:00+00:00",
       "available_at": "2026-08-02T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 30
@@ -561,7 +561,7 @@
       "merchant_id": "merchant-10",
       "observed_at": "2026-09-20T00:00:00+00:00",
       "available_at": "2026-09-21T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 56
@@ -572,7 +572,7 @@
       "merchant_id": "merchant-11",
       "observed_at": "2026-08-02T00:00:00+00:00",
       "available_at": "2026-08-03T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 31
@@ -594,7 +594,7 @@
       "merchant_id": "merchant-11",
       "observed_at": "2026-09-01T00:00:00+00:00",
       "available_at": "2026-09-02T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 57
@@ -616,7 +616,7 @@
       "merchant_id": "merchant-12",
       "observed_at": "2026-08-28T00:00:00+00:00",
       "available_at": "2026-08-29T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 45
@@ -627,7 +627,7 @@
       "merchant_id": "merchant-12",
       "observed_at": "2026-09-22T00:00:00+00:00",
       "available_at": "2026-09-23T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 58
@@ -638,7 +638,7 @@
       "merchant_id": "merchant-13",
       "observed_at": "2026-08-04T00:00:00+00:00",
       "available_at": "2026-08-05T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 33
@@ -660,7 +660,7 @@
       "merchant_id": "merchant-13",
       "observed_at": "2026-09-03T00:00:00+00:00",
       "available_at": "2026-09-04T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 59
@@ -671,7 +671,7 @@
       "merchant_id": "merchant-14",
       "observed_at": "2026-08-05T00:00:00+00:00",
       "available_at": "2026-08-06T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 34
@@ -693,7 +693,7 @@
       "merchant_id": "merchant-14",
       "observed_at": "2026-09-24T00:00:00+00:00",
       "available_at": "2026-09-25T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 60
@@ -715,7 +715,7 @@
       "merchant_id": "merchant-15",
       "observed_at": "2026-08-16T00:00:00+00:00",
       "available_at": "2026-08-17T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 48
@@ -726,7 +726,7 @@
       "merchant_id": "merchant-15",
       "observed_at": "2026-08-31T00:00:00+00:00",
       "available_at": "2026-09-01T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 61
@@ -737,7 +737,7 @@
       "merchant_id": "merchant-16",
       "observed_at": "2026-08-02T00:00:00+00:00",
       "available_at": "2026-08-03T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 36
@@ -759,7 +759,7 @@
       "merchant_id": "merchant-16",
       "observed_at": "2026-09-21T00:00:00+00:00",
       "available_at": "2026-09-22T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 62
@@ -770,7 +770,7 @@
       "merchant_id": "merchant-17",
       "observed_at": "2026-08-03T00:00:00+00:00",
       "available_at": "2026-08-04T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 37
@@ -792,7 +792,7 @@
       "merchant_id": "merchant-17",
       "observed_at": "2026-09-02T00:00:00+00:00",
       "available_at": "2026-09-03T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 63
@@ -814,7 +814,7 @@
       "merchant_id": "merchant-18",
       "observed_at": "2026-08-29T00:00:00+00:00",
       "available_at": "2026-08-30T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 51
@@ -825,7 +825,7 @@
       "merchant_id": "merchant-18",
       "observed_at": "2026-09-23T00:00:00+00:00",
       "available_at": "2026-09-24T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 64
@@ -836,7 +836,7 @@
       "merchant_id": "merchant-19",
       "observed_at": "2026-08-05T00:00:00+00:00",
       "available_at": "2026-08-06T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 39
@@ -858,7 +858,7 @@
       "merchant_id": "merchant-19",
       "observed_at": "2026-09-04T00:00:00+00:00",
       "available_at": "2026-09-05T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 65
@@ -869,7 +869,7 @@
       "merchant_id": "merchant-20",
       "observed_at": "2026-08-01T00:00:00+00:00",
       "available_at": "2026-08-02T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 40
@@ -891,7 +891,7 @@
       "merchant_id": "merchant-20",
       "observed_at": "2026-09-20T00:00:00+00:00",
       "available_at": "2026-09-21T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 66
@@ -913,7 +913,7 @@
       "merchant_id": "merchant-21",
       "observed_at": "2026-08-17T00:00:00+00:00",
       "available_at": "2026-08-18T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 54
@@ -924,7 +924,7 @@
       "merchant_id": "merchant-21",
       "observed_at": "2026-09-01T00:00:00+00:00",
       "available_at": "2026-09-02T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 67
@@ -935,7 +935,7 @@
       "merchant_id": "merchant-22",
       "observed_at": "2026-08-03T00:00:00+00:00",
       "available_at": "2026-08-04T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 42
@@ -957,7 +957,7 @@
       "merchant_id": "merchant-22",
       "observed_at": "2026-09-22T00:00:00+00:00",
       "available_at": "2026-09-23T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 68
@@ -968,7 +968,7 @@
       "merchant_id": "merchant-23",
       "observed_at": "2026-08-04T00:00:00+00:00",
       "available_at": "2026-08-05T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 43
@@ -990,7 +990,7 @@
       "merchant_id": "merchant-23",
       "observed_at": "2026-09-03T00:00:00+00:00",
       "available_at": "2026-09-04T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 69
@@ -1012,7 +1012,7 @@
       "merchant_id": "merchant-24",
       "observed_at": "2026-08-30T00:00:00+00:00",
       "available_at": "2026-08-31T00:00:00+00:00",
-      "state": "regional",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 57
@@ -1023,7 +1023,7 @@
       "merchant_id": "merchant-24",
       "observed_at": "2026-09-24T00:00:00+00:00",
       "available_at": "2026-09-25T00:00:00+00:00",
-      "state": "oem",
+      "state": "regional",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 70
@@ -1034,7 +1034,7 @@
       "merchant_id": "merchant-25",
       "observed_at": "2026-08-01T00:00:00+00:00",
       "available_at": "2026-08-02T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 45
@@ -1067,7 +1067,7 @@
       "merchant_id": "merchant-26",
       "observed_at": "2026-08-02T00:00:00+00:00",
       "available_at": "2026-08-03T00:00:00+00:00",
-      "state": "oem",
+      "state": "independent",
       "rule_version": "old",
       "features": {
         "own_brand_sales": 46
@@ -1122,7 +1122,7 @@
       "merchant_id": "merchant-27",
       "observed_at": "2026-09-02T00:00:00+00:00",
       "available_at": "2026-09-03T00:00:00+00:00",
-      "state": "oem",
+      "state": "regional",
       "rule_version": "new",
       "features": {
         "own_brand_sales": 73

@@ -19,6 +19,10 @@ class AnalysisInputsTests(unittest.TestCase):
         data = self.load_data()
         self.assertTrue({row['rule_version'] for row in data['visits']} == {'old', 'new'})
 
+    def test_observed_fallback(self):
+        data = self.load_data()
+        self.assertTrue(any(row['visit_id'] == 'visit-2-2' and row['state'] == 'oem' for row in data['visits']))
+
     def test_source_versions_and_cutoff(self):
         data = self.load_data()
         self.assertEqual(data["schema_version"], 1)
